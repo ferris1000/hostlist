@@ -398,10 +398,6 @@
 0.0.0.0 spclient.wg.spotify.com
 :: spclient.wg.spotify.com
 
-# Link shortener
-0.0.0.0 adf.ly
-:: adf.ly
-
 # German Bank Scam
 0.0.0.0 spk-kontoeinzug-de.com
 :: spk-kontoeinzug-de.com
@@ -511,6 +507,10 @@
 :: pke.to
 0.0.0.0 shoort.ink
 :: shoort.ink
+0.0.0.0 adf.ly
+:: adf.ly
+0.0.0.0 t.com
+:: t.co
 
 # Shady stuff hosted on Huawei Cloud
 0.0.0.0 myhuaweicloud.com
@@ -583,6 +583,8 @@
 :: builddozer.co.uk
 0.0.0.0 fier.stabrino.info
 :: fier.stabrino.info
+0.0.0.0 stabrino.info
+:: stabrino.info
 0.0.0.0 wewescascsdcdcsdvasdvcaserg.page.link
 :: wewescascsdcdcsdvasdvcaserg.page.link
 0.0.0.0 lemon7exor.nondeprecatorilyexor.best
@@ -603,6 +605,10 @@
 :: stats.news.sellsy-email-service-1.com
 0.0.0.0 russiawomenonline.com
 :: russiawomenonline.com
+0.0.0.0 bsq2.firiri.shop
+:: bsq2.firiri.shop
+0.0.0.0 voltro.digital
+:: voltro.digital
 
 # Shady Site
 0.0.0.0 bluemail.me
@@ -613,6 +619,8 @@
 :: batibig.com
 0.0.0.0 sfndprpdev.in
 :: sfndprpdev.in
+0.0.0.0 tandra.org.uk
+:: tandra.org.uk
 
 0.0.0.0 cooperwieck.org.uk
 :: cooperwieck.org.uk
